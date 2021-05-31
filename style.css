@@ -1,0 +1,35 @@
+body {background-color: #fcb5b5;}
+
+h1 {
+    text-align: center;
+    color:  #FFADAD;
+    font-family: fantasy;
+    font: larger;
+}
+
+p,h2,h3,h4 {
+   font-family: monospace;
+   font: larger;
+}
+
+.header{
+    background-color: #FFD6A5;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+   margin-left:30px;
+}
+
+.menu{
+    margin-top: 5%;
+}
+
+a:link{
+    color:#CAFFBF;
+}
+
+a:visited{
+    color:#BDB2FF;
+}
